@@ -1,0 +1,7 @@
+name: app
+remote_url: 'https://giovannaquintao.shinyapps.io/dashboard_mapas'
+auth0_config:
+  api_url: 'https://dev-k2u-hmdy.us.auth0.com'
+  credentials:
+    key: keykey
+    secret: secsec
